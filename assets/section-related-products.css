@@ -1,0 +1,9 @@
+.related-products {
+  display: block;
+  padding-left: 15vw;
+  padding-right: 15vw;
+}
+
+.related-products__heading {
+  margin: 0 0 3rem;
+}
